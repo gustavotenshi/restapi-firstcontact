@@ -1,6 +1,6 @@
 <center>
 
-# REST-API ➯ EN-US
+# REST-API
 
 </center>
 
